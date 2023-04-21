@@ -5,6 +5,7 @@ import MengeContext from "./context/MengeContext";
 
 export default function App() {
 
+	// TODO -> add .env to .gitignore
 	return (
 		<div className="App">
 			<MengeContext>
